@@ -1,2 +1,3 @@
-# monty
-The goal of this project is to create an interpreter for Monty ByteCodes files.
+# Monty Interpreter
+This is a language interpreter built in the C programming language.
+It read Monty bytecode files and interprets the codes contained.
